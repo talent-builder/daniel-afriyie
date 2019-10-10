@@ -1,0 +1,17 @@
+/*.client_projects {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    margin-left: 32rem;*/
+/*}*/
+
+/*.client_projects img {*/
+/*    width: 100%;*/
+/*}*/
+
+@media (max-width: 430px) {
+    .my_style {
+        margin-right: 2.5rem;
+        margin-left: 3rem;
+    }
+}
